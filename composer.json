@@ -1,0 +1,22 @@
+{
+    "name": "bumble/pagination",
+    "description": "Provides classes for many types of pagination generation.",
+    "homepage": "http://bumble.attibee.com",
+    "support": {
+        "email": "a@attibee.com",
+        "irc": "irc://irc.freenode.org/attibee-bumble"
+    },
+    "license": "Apache-2.0",
+    "keywords": [
+        "attibee",
+        "bumble",
+        "pagination"
+    ],
+    "version": "1.0-dev",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Bumble\\Pagination\\": "src/"
+        }
+    }
+}
