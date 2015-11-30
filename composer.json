@@ -1,6 +1,6 @@
 {
-    "name": "bumble/pagination",
-    "description": "Provides classes for many types of pagination generation.",
+    "name": "bumble/localization",
+    "description": "Provides an interface to access data from Unicode's standard localization XML.",
     "homepage": "http://bumble.attibee.com",
     "support": {
         "email": "a@attibee.com",
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Bumble\\Pagination\\": "src/"
+            "Bumble\\Localization\\": "src/"
         }
     }
 }
